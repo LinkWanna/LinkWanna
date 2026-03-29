@@ -11,4 +11,12 @@
   <!-- Typing SVG from: https://github.com/DenverCoder1/readme-typing-svg -->
 </picture>
 
-![Stats](./profile/stats.svg)
+<p align=center>
+<picture>
+  <source srcset="https://raw.githubusercontent.com/LinkWanna/LinkWanna/refs/heads/main/profile/stats-dark.svg" media="(prefers-color-scheme: dark)" />
+    <br><br>
+  <source srcset="https://raw.githubusercontent.com/LinkWanna/LinkWanna/refs/heads/main/profile/stats-light.svg" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+
+  <img src="https://raw.githubusercontent.com/LinkWanna/LinkWanna/refs/heads/main/profile/stats-dark.svg" alt="GitHub Stats" />
+</picture>
+</p>
